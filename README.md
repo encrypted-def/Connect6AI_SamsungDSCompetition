@@ -1,0 +1,2 @@
+# Connect6AI_SamsungDSCompetition
+자본주의가낳은AI
