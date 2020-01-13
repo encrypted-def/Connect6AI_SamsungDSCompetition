@@ -2,4 +2,4 @@
 
 제작 과정은 https://blog.encrypted.gg/205 에서 확인할 수 있습니다.
 
-2018 버전은 추후 공개할 예정입니다.
+[웹 버전](https://github.com/blisstoner/Connect6-Web)도 확인해보세요.
